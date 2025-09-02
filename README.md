@@ -29,5 +29,4 @@ Monthly evolution of HICP in Italy, from 1996 onwards. Tasks include:
 - **Data:** `data.xls`  
 - **Tools:** R, `ggplot2`, `forecast`, `fpp2`, `readxl`  
 
-accuracy(pred_auto, hicp_test)
   
