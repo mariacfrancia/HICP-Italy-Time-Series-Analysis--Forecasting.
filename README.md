@@ -6,6 +6,8 @@ Focus on **seasonality adjustment, exponential smoothing models, and forecast ev
 
 **Skills & Keywords:** Time Series Analysis, Forecasting, ETS Models, Seasonality Adjustment, R Programming, Data Visualization, HICP, Italy.
 
+The project was carried out by a **group of 3 students**.
+
 ## Files
 - **data.xls**: Excel file with HICP data for several Eurozone countries.  
 - **TimeSeries.R**: R script implementing all the analysis steps: visualization, seasonal adjustment, ETS modeling, predictions, and accuracy evaluation.
